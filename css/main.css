@@ -46,6 +46,10 @@ body {
   height: 500px;
 }
 
+h1 {
+  text-align: center;
+}
+
 #image-flex > .img-3 {
   height: 500px;
 }
