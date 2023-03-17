@@ -17,6 +17,10 @@ body {
   justify-content: center;
 }
 
+/* .col-md-9.col-sm-12.px-0 {
+  
+} */
+
 #image-flex {
   display: flex;
   flex-direction: row;
@@ -63,8 +67,10 @@ h1 {
 }
 
 p {
+  width: 100%;
   text-align: center;
   color: #000080;
+  align-self: center;
 }
 
 .page {
