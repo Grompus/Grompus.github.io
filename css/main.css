@@ -106,7 +106,7 @@ p {
   align-self: center;
 }
 
-#p {
+.link-style {
   width: 100%;
   text-align: center;
   color: #000080;
